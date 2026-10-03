@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi there, I'm Ivan Sajiv S. 👋
 
-<!--
-**ivansajiv/ivansajiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 First-Year CSE Student | Aspiring Cloud & Platform Engineer | Software Development
 
-Here are some ideas to get you started:
+I'm a first-year Computer Science & Engineering student at **St. Joseph's College of Engineering, Chennai**, interested in understanding how technology works and building things along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 About Me
+
+- 🎓 **Education:** B.E. Computer Science & Engineering — St. Joseph's College of Engineering
+- 📅 **Batch:** 2026–2030
+- ☁️ **Career Interests:** Cloud, Platform Engineering & Software Development
+- 💻 **Programming:** C, Python
+- 🔧 **Tools:** Git & GitHub
+- 🚀 **Currently Focused On:** Strengthening programming fundamentals, building projects and exploring cloud & software technologies
+- 🧠 **Interests:** Figuring out how technology works and experimenting with new things
+- 💃 **Outside Tech:** Dancing
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C
+- Python
+
+**Tools & Technologies**
+- Git
+- GitHub
+- VS Code
+
+**Currently Exploring**
+- Cloud Computing
+- Platform Engineering
+- Software Development
+
+---
+
+## 🚀 Projects
+
+### 🗺️ Intelligent Land Record Digitization & Validation System
+Hackathon project focused on digitizing and validating historical land records using OCR, AI and GIS.
+
+**Event:** College-level Hackathon
+
+---
+
+### 🧮 Simple Calculator
+A simple calculator built to practice C programming fundamentals and user input handling.
+
+---
+
+### 📰 Fake News Detection System
+Academic assignment exploring basic fake-news detection and data processing.
+
+---
+
+### 💰 Expense Tracker
+A small personal project built to practice application development and expense tracking.
+
+---
+
+## 📈 My Learning Journey
+
+I'm currently focused on building strong fundamentals rather than trying to learn everything at once.
+
+**C → Python → Git/GitHub → Cloud → Platform Engineering → Software Development**
+
+This is a work in progress. 🚀
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivan-sajiv-1b679b42a)
+- 📧 [Email](mailto:ivansajiv2@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
